@@ -1,0 +1,198 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Where did the animals live?",
+    "options": [
+      "In a city",
+      "In a big, green forest",
+      "On a farm"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What couldn't the birds find one morning?",
+    "options": [
+      "Their nests",
+      "Water",
+      "Seeds"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Who noticed the birds were worried?",
+    "options": [
+      "The wolves",
+      "The squirrels",
+      "Other birds"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "How did the birds help?",
+    "options": [
+      "They spotted seeds in the grass",
+      "They sang songs",
+      "They carried the other animals"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What is the main idea (theme) of this story?",
+    "options": [
+      "Animals should live alone",
+      "Working together helps everyone",
+      "Forest animals don't like each other"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "A group of birds is called a _____.",
+    "options": [
+      "herd",
+      "flock",
+      "pack"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "We call many sheep together a _____.",
+    "options": [
+      "herd",
+      "swarm",
+      "pride"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "A _____ of bees fly together.",
+    "options": [
+      "team",
+      "pack",
+      "swarm"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "A group of ants is called a colony. (True / False)",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Many trees together make a _____.",
+    "options": [
+      "bunch",
+      "forest",
+      "herd"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "A _____ of lions live together.",
+    "options": [
+      "pride",
+      "flock",
+      "school"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "We call a group of soldiers an _____.",
+    "options": [
+      "army",
+      "crew",
+      "choir"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "A _____ of wolves hunt together.",
+    "options": [
+      "herd",
+      "pack",
+      "swarm"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Many flowers together are a _____.",
+    "options": [
+      "forest",
+      "herd",
+      "bunch"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "We call a group of players a _____.",
+    "options": [
+      "pack",
+      "choir",
+      "team"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "A group of flowers is often called a bouquet. (True / False)",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "A group of singers is called a crew. (True / False)",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "A _____ of mountains stand tall.",
+    "options": [
+      "bunch",
+      "range",
+      "forest"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "A group of dancers is called a flock. (True / False)",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Many cards together make a _____.",
+    "options": [
+      "bunch",
+      "herd",
+      "deck"
+    ],
+    "correct": 2
+  }
+]
